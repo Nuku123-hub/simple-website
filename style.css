@@ -1,0 +1,204 @@
+body{
+    font-size: larger;
+}
+.topnav{
+    background-color: rgb(130, 240, 96);
+    overflow: hidden;
+    border-radius:20px ;
+    margin: 30px;
+    height: 40px;
+    top:0;
+   
+
+}
+.topnav a{
+    float: center;
+    margin:80px ;
+    inline-size: auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 17px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+.footer{
+    position: relative;
+    width: 105%;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    float: center;
+    font-size: medium;
+    inline-size: auto;
+    margin: 10px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #6d65ca;
+    color: black;
+  }
+
+#Adzo{
+    background-color:  #FAF9F6;
+}
+
+em{
+    color: burlywood;
+}
+
+.kwame:hover {
+    background-color:rgb(150, 254, 119);
+    border-radius: 18%;
+    padding: 10px;
+    width: 17%;
+}
+
+.nuku{
+    float: center;
+    color: chartreuse;
+    text-decoration: underline;
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(0, 0%, 30%);
+    font-size: 3rem;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+ 
+#calculator{
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 0%, 15%);
+    border-radius: 15px;
+    max-width: 500px;
+    overflow: hidden;
+}
+
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding: 26px;
+    overflow: hidden;
+}
+
+#display{
+    font-size: 5rem;
+    text-align: left;
+    background-color: hsl(0, 0%, 36%);
+    width: 100%;
+    border: none;
+    padding: 20px;
+    color: #FAF9F6;
+    height: 10%;
+}
+
+
+#blackAdam{
+    margin: 0;
+    height: 100vh;
+    background-color: hsl(0, 0%, 95%);;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+
+
+button:hover{
+    background-color: hsl(0, 0%, 40%);
+}
+
+button:active{
+    background-color: hsl(0, 0%, 50%);
+}
+
+.operator-btn{
+    background-color: hsl(35, 100%, 55%);
+}
+
+.operator-btn:hover{
+    background-color: hsl(35, 100%, 65%);
+}
+
+.operator-btn:active{
+    background-color: hsl(39, 100%, 75%);
+}
+
+#johny{
+    color: chartreuse;
+}
+
+#mc{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.josh{
+    width: 65%;
+    height: 70%;
+}
+
+#empror{
+    color: rgba(9, 238, 62, 0.89);
+}
+
+#mtn{
+    background-color: #965b5b;
+}
+
+.kim{
+    border-radius: 70px;
+    padding: 3px;
+    
+}
+.kim:active{
+    border: orangered;
+}
+
+.Dady{
+    width: 40%;
+    height: 20%;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
